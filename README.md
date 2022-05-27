@@ -11,10 +11,20 @@ http://dm.postech.ac.kr/~cartopy/ConvMF/data/movielens.tarhttp://dm.postech.ac.k
 
 
 Word Embedding教程快速链接 实验数据简介
+
 https://github.com/zlsdu/Word-Embedding
+
 Word2vec中文词向量训练
+
 Fasttext中文词向量训练
+
 Glove中文词向量训练
+
 Elmo英文和中文词向量训练
+
 Bert句向量和词向量训练
+
 Flair词向量训练
+
+Pre-Trained Word Vectors
+https://github.com/Hironsan/awesome-embedding-models
