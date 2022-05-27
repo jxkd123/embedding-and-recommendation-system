@@ -7,7 +7,8 @@ https://github.com/cartopy/ConvMF
 
 数据集地址：
 
-http://dm.postech.ac.kr/~cartopy/ConvMF/data/movielens.tarhttp://dm.postech.ac.kr/~cartopy/ConvMF/data/aiv.tarPPT ：http://dm.postech.ac.kr/~cartopy/ConvMF/ConvMF_RecSys16_for_public.pdf
+[http://dm.postech.ac.kr/~cartopy/ConvMF/data/movielens.tar]
+[http://dm.postech.ac.kr/~cartopy/ConvMF/data/aiv.tarPPT ][http://dm.postech.ac.kr/~cartopy/ConvMF/ConvMF_RecSys16_for_public.pdf]
 
 
 Word Embedding教程快速链接 实验数据简介
