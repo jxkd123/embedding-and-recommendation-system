@@ -29,3 +29,6 @@ Flair词向量训练
 awesome-embedding-models
 Pre-Trained Word Vectors
 https://github.com/Hironsan/awesome-embedding-models
+
+Training Word2Vec Model on English Wikipedia by Gensim
+https://textminingonline.com/getting-started-with-word2vec-and-glove-in-python
