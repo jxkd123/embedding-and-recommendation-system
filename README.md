@@ -26,5 +26,6 @@ Bert句向量和词向量训练
 
 Flair词向量训练
 
+awesome-embedding-models
 Pre-Trained Word Vectors
 https://github.com/Hironsan/awesome-embedding-models
