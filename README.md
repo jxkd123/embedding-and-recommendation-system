@@ -1,6 +1,6 @@
 # embedding-and-recommendation-system
 
-推荐系统与embeddding综述
+综述推荐系统中的Embedding
 
 https://codeantenna.com/a/4jSLmYjgYG
 
