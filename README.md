@@ -1,4 +1,9 @@
 # embedding-and-recommendation-system
+
+推荐系统与embeddding综述
+
+https://codeantenna.com/a/4jSLmYjgYG
+
 movielens推荐系统_深度学习在推荐系统中的应用1（附代码、论文及数据集）
 
 代码地址：
